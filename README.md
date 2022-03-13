@@ -1,4 +1,8 @@
-# doc
+# rbdx运营文档
+
+## 整体架构图
+
+![架构图](./img/arch.png)
 
 ## Fumen
 
